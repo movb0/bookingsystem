@@ -25,6 +25,3 @@ The system supports authentication, hall management, and booking functionality u
 - JSON Parsing (org.json)
 - IntelliJ IDEA
 
----
-
-## 📁 Project Structure
